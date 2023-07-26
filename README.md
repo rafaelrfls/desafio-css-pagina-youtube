@@ -5,7 +5,7 @@ Segundo desafio da Trilha de CSS da DIO! Recriei a página do Youtube com HTML e
 ## 🚀 Demonstração
 
 ![image](assets/img/readme-images/pagina.png)
-[Clique aqui](https://micheleambrosio.github.io/coffee-shop-bootstrap-dio/) para acessar o resultado final do projeto.
+[Clique aqui](https://rafaelrfls.github.io/desafio-css-pagina-youtube/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
